@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(imge/p7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height:100vh;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+padding: 20px;
+background-color: rgba(74, 9, 147, 0.604);
+
+}
+.navigation a{
+    color: white;
+
+    text-decoration: none;
+    font-size: 1.3em;
+    font-weight: 600;
+    padding-right: 20px;
+}
+.logo{
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight:800 ;
+    color: white;
+
+
+}
+.span-logo{
+margin-left:5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
